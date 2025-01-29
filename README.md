@@ -3,6 +3,8 @@
 ## Description
 This project consists of a simple registration form built with HTML. The form includes fields for name, email, password, and confirm password. This form can be opened and edited using Sublime Text.
 
+## [html sample registration form code]https://github.com/bhargavi-gudur/htmlProgram_minproj.git
+
 ## Features
 - Simple and clean registration form
 - Fields for name, email, password, and confirm password

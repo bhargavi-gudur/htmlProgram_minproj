@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x86",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/gandl/googletest/googletest/include", // Path to Google Test headers
+        "C:/MinGW/lib/gcc/mingw32/6.3.0/include-fixed", // GCC standard C++ headers
+        "C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++", // GCC C++ headers
+        "C:/MinGW/include", // General MinGW compiler headers
+        "C:/MinGW/lib/gcc/mingw32/6.3.0/include", // Standard library headers
+        "C:/Users/gandl/vcpkg/installed/x64-windows/include"
+      ],
+      "compilerPath": "C:/MinGW/bin/g++.exe",
+      "intelliSenseMode": "windows-gcc-x86",
+      "cppStandard": "c++17",
+      "cStandard": "c11"
+    }
+  ],
+  "version": 4
+}
